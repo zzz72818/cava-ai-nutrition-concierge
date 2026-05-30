@@ -72,7 +72,7 @@ This project explores how AI can improve the customer dining experience through 
 
 ## Recommendation Engine
 
-![Recommendation Engine](recommendation-engine.png)
+![Recommendation Engine](recommendation-engine.png.png)
 
 ---
 
