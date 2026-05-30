@@ -1,62 +1,125 @@
 # CAVA AI Smart Nutrition Concierge
 
-## Overview
+AI-powered personalized nutrition recommendation platform designed for CAVA.
 
-This project presents an AI-powered smart nutrition concierge concept for CAVA, designed to personalize food recommendations based on customer preferences, nutritional goals, purchase behavior, and community wellness moments.
+This project combines:
 
-The project combines product strategy, customer analytics, AI-assisted ideation, and UI prototyping.
+* AI-powered meal recommendations
+* Personalized wellness tracking
+* Nutrition goal optimization
+* Customer analytics
+* Product strategy
+* AI-assisted prototyping
 
-## Project Objective
+---
 
-The goal is to explore how CAVA could use AI to increase customer engagement, improve menu personalization, and create stronger connections between food choices and wellness routines.
+## Product Vision
+
+CAVA AI helps customers make healthier and more personalized food choices by integrating:
+
+* fitness goals
+* calorie targets
+* protein preferences
+* lifestyle behaviors
+* community wellness activities
+
+into a seamless AI-powered dining experience.
+
+---
+
+## Problem Statement
+
+Many customers struggle to:
+
+* choose meals that fit their nutrition goals
+* balance taste and health preferences
+* maintain healthy eating consistency
+* personalize meals efficiently
+
+This project explores how AI can improve the customer dining experience through intelligent recommendations and wellness-driven personalization.
+
+---
 
 ## Key Features
 
-- Personalized meal recommendations
-- Nutrition goal matching
-- Flavor preference learning
-- Community wellness event integration
-- AI-powered customer journey support
-- Prototype UI for customer interaction
+* AI-powered meal recommendations
+* Personalized calorie and protein targeting
+* Smart ingredient recommendation engine
+* User wellness dashboard
+* Goal tracking system
+* Community wellness integration
+* Real-time recommendation updates
 
-## My Contribution
+---
 
-- Developed the product concept and business strategy
-- Defined target users and customer journey
-- Designed the AI feature logic and recommendation flow
-- Created the presentation structure and business impact analysis
-- Used AI-assisted tools to generate and refine the UI prototype
+## Landing Page
 
-## AI Assistance Disclosure
+![Landing Page](images/landing-page.png)
 
-Parts of the UI prototype were created with the assistance of AI design tools. The project concept, business logic, customer journey, feature design, and strategic analysis were developed and organized by the author.
+---
+
+## User Dashboard
+
+![Dashboard](images/user-dashboard.png)
+
+---
+
+## AI Recommendation Flow
+
+![AI Flow](images/ai-input-flow.png)
+
+---
+
+## Recommendation Engine
+
+![Recommendation Engine](images/recommendation-engine.png)
+
+---
+
+## AI Recommendation Logic
+
+The recommendation engine analyzes:
+
+* calorie targets
+* protein goals
+* dietary preferences
+* ingredient selections
+* wellness objectives
+
+to generate personalized CAVA bowl recommendations.
+
+---
 
 ## Business Impact
 
 This concept demonstrates how AI can help CAVA:
 
-- Improve personalization
-- Increase customer engagement
-- Support health-conscious customer decisions
-- Strengthen brand differentiation
-- Create new partnership opportunities with wellness communities
+* improve customer personalization
+* increase user engagement
+* support healthier dining decisions
+* strengthen customer retention
+* create wellness-focused brand differentiation
 
-## Tools & Methods
+---
 
-- AI-assisted UI prototyping
-- Product strategy
-- Customer journey mapping
-- Recommendation system concept design
-- Business impact analysis
+## Tools & Technologies
 
-- ## Interactive Prototype
+* v0 by Vercel
+* AI-assisted prototyping
+* Product strategy
+* Customer analytics
+* UX/UI concept design
 
-View Canva Presentation:
-[Canva Prototype Link](https://canva.link/hxbigkxm2zqrz8c)
+---
 
+## AI-Assisted Development
+
+The prototype UI was created using AI-assisted prototyping tools (v0) and refined as part of the product strategy, customer experience design, and business analytics process.
+
+---
 
 ## Author
 
-Po An Tao  
-M.S. Business Analytics  
+Po An Tao
+M.S. Business Analytics
 George Washington University
