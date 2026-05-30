@@ -49,6 +49,12 @@ This concept demonstrates how AI can help CAVA:
 - Recommendation system concept design
 - Business impact analysis
 
+- ## Interactive Prototype
+
+View Canva Presentation:
+[Canva Prototype Link](https://canva.link/hxbigkxm2zqrz8c)
+
+
 ## Author
 
 Po An Tao  
