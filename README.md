@@ -54,19 +54,19 @@ This project explores how AI can improve the customer dining experience through 
 
 ## Landing Page
 
-![Landing Page](images/landing-page.png)
+![Landing Page](images/landing page.png)
 
 ---
 
 ## User Dashboard
 
-![Dashboard](images/user-dashboard.png)
+![Dashboard](images/user dashboard.png)
 
 ---
 
 ## AI Recommendation Flow
 
-![AI Flow](images/ai-input-flow.png)
+![AI Flow](images/AI flow.png)
 
 ---
 
